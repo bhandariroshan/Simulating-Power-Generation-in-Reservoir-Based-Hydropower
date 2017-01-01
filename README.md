@@ -1,4 +1,4 @@
-# Simulating-Power-Estimation-in-Hydropower
+# Simulating-Power-Generation-in-Reservoir-Based-Hydropower
 
 This algorithm helps simulate power generated for different time during pick hour and off hour in a reservoir using height of the water available in reservoid for each day for 12 months
 
@@ -7,9 +7,13 @@ Running the code:
 
 1. python power.py
 2. Input following:
+   
    a. Number of days in the month
+   
    b. Input in the month
+   
    c. Number of "I" in per peak shift
+   
    d. Number of hrs in non peak shift
 
 # Equation of height of water in reservoir
